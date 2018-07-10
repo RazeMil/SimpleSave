@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         prefEdit.commit();
 
-
+            //Test
     }
 
     @Override
